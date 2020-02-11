@@ -1,8 +1,11 @@
-name="Feln"
-age="37"
-if name=="Feln":
-    print==("hi,Feln")
-elif age=="37":
-    print==("kid")
+age=30
+if age<30:
+    print("whats point")
+    if age<27:
+       print("87")
+    if age<24:
+       print("kid")
+    if age<21:
+       print("you out")
 else:
-    print==("you are neither Feln nor kid")
+    print("OK We can talk")
